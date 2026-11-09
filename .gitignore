@@ -1,0 +1,15 @@
+# Capítulos del libro de Ediciones Paraninfo (con copyright): se quedan solo en local
+ut02-tecnologias-habilitadoras-de-digitalizacion/ut2-caracterizacion-de-las-tecnologias-habilitadoras.pdf
+ut03-sistemas-en-la-nube/ut3-cloud-computing-y-sistemas-conectados.pdf
+
+# Guías de defensa: material personal, nunca se suben a GitHub
+guia-defensa-*.md
+
+# Archivos de bloqueo de LibreOffice y Office
+.~lock.*#
+~$*
+
+# Sistema y secretos
+.DS_Store
+Thumbs.db
+.env

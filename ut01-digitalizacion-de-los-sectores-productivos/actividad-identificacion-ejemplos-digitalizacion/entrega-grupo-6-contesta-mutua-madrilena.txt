@@ -1,0 +1,6 @@
+GRUPO 6 FFE: Contesta / Mutua Madrileña
+INFORMATIZACIÓN:
+En Contesta (call center de Mutua Madrileña), la informatización se observa en la digitalización de herramientas para la gestión diaria. Utilizan Salesforce para centralizar los datos de clientes, lo que permite asociar de forma automática el usuario al número de teléfono entrante. Además, usamos el software Autosoffice para tramitar pólizas de manera digital (motor, hogar, alarmas, S2S...) y herramientas Groupware como Cronos Chat para agilizar aprobaciones telemáticas de autorizaciones con supervisores. Finalmente, el rendimiento de los agentes y la productividad de las campañas se miden y supervisan mediante gráficos y tablas informatizadas en Microsoft Excel.
+
+TRANSFORMACIÓN DIGITAL:
+La verdadera transformación digital en la operativa se identifica en la implementación reciente de sistemas de Inteligencia Artificial para auditar, transcribir y analizar de forma automatizada las llamadas telefónicas de los agentes. Esto supone un cambio completo en el modelo de negocio del departamento de calidad, rediseñando los procesos de control tradicionales: pasamos de escuchas manuales aleatorias hechas por humanos a una supervisión masiva en tiempo real sobre la satisfacción del cliente y el cumplimiento de las operativas de la empresa.
