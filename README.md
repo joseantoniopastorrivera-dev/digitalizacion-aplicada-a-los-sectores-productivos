@@ -42,7 +42,7 @@ Criterios: a) concepto de digitalización · b) tecnología digital y organizaci
 
 - [`enunciado.docx`](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/enunciado.docx)
 - Ejemplo resuelto del profesorado (hotel): [`ejemplo-resuelto-hotel.docx`](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/ejemplo-resuelto-hotel.docx) y su [presentación](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/ejemplo-resuelto-hotel-presentacion.pptx).
-- [`solucion-cinco-sectores.md`](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/solucion-cinco-sectores.md): solución para los cinco sectores (industria, comercio, agricultura, sanidad y transporte), con transparencia y guion de 2 minutos. Versión para entregar en [Word](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/solucion-cinco-sectores.docx) y [PDF](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/solucion-cinco-sectores.pdf).
+- [`solucion-cinco-sectores.md`](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/solucion-cinco-sectores.md): solución para los cinco sectores (industria, comercio, agricultura, sanidad y transporte), con transparencia y guion de 2 minutos. Versión para entregar en [Word](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/actividad-aplicacion-thd_JoseAntonio_PastorRivera.docx) y [PDF](ut02-tecnologias-habilitadoras-de-digitalizacion/actividad-thd-20-minutos/actividad-aplicacion-thd_JoseAntonio_PastorRivera.pdf).
 
 ## UT03. Sistemas en la nube
 
