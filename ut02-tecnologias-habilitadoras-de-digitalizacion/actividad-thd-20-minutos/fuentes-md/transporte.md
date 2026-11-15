@@ -64,27 +64,3 @@ Es el servicio que más me gusta porque no es solo un extra para el cliente. Ata
 > **Mejoras:** menos kilómetros, más entregas por furgoneta, menos averías.
 > **Sostenible:** menos gasóleo y CO₂. Datos para decidir qué rutas pasar a eléctrico.
 > **Nuevo servicio:** el cliente elige la hora y sigue su paquete en el mapa.
-
-## Notas para exponer (2 minutos)
-
-**Arranque, 20 segundos.**
-- Mi empresa es Reparto Complutense, doce furgonetas por Alcalá y alrededores.
-- Se le va el dinero en tres cosas: rutas hechas a mano, entregas fallidas y averías.
-- Las tres acaban en lo mismo: kilómetros de más.
-
-**Tecnologías, 30 segundos.**
-- IoT: cada furgoneta manda posición, consumo y estado del motor.
-- IA: con eso, los pedidos y el tráfico, calcula la ruta. Y la rehace si hay un atasco.
-- Ejemplo rápido: atasco en la A-2 y la ruta cambia sola en el móvil del repartidor.
-
-**Mejoras y sostenibilidad, 35 segundos.**
-- Mismas entregas con menos kilómetros. Más paquetes por furgoneta.
-- El taller, antes de que la furgoneta se pare.
-- Menos gasóleo es menos coste y menos CO₂: aquí van juntos.
-- Con los datos se sabrá qué rutas pueden pasar a furgoneta eléctrica.
-- Decir que el GPS se explica a la plantilla y no es para vigilar.
-
-**Nuevo servicio, 35 segundos.**
-- El cliente elige una franja de una hora y ve su paquete en el mapa.
-- Si hay alguien en casa no hay segundo viaje. El servicio nuevo arregla también un problema viejo.
-- Cierre: no hace falta repartir más rápido, hace falta dar menos vueltas.
