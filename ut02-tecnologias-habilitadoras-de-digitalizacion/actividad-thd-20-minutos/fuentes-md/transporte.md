@@ -1,12 +1,12 @@
 # Reparto Complutense: menos kilómetros para entregar lo mismo
 
-Grupo 5 · Transporte
+Transporte
 
 ## La empresa y lo que le pasa
 
-Nos toca una empresa de reparto que quiere reducir costes y contaminación. La hemos llamado **Reparto Complutense**: doce furgonetas que entregan paquetes de tiendas online por Alcalá y los pueblos de alrededor.
+La situación es una empresa de reparto que quiere reducir costes y contaminación. La he llamado **Reparto Complutense**: doce furgonetas que entregan paquetes de tiendas online por Alcalá y los pueblos de alrededor.
 
-Hemos pensado en qué se le va el dinero a una empresa así y salen tres cosas:
+He pensado en qué se le va el dinero a una empresa así y me salen tres cosas:
 
 - **Las rutas se montan a mano** cada mañana, según la experiencia del encargado. Funcionan, pero nadie sabe si son las mejores.
 - **Las entregas fallidas.** Se llega, no hay nadie en casa y hay que volver al día siguiente. Es el mismo viaje dos veces para cobrar una sola entrega.
@@ -45,15 +45,15 @@ Los datos sirven para algo más. Ahora mismo, si la empresa quisiera comprar fur
 
 ## Lo que habría que hablar con la plantilla
 
-Poner un GPS y medir cómo conduce cada persona es un tema delicado. Hay que avisar a los trabajadores, explicar para qué se usa y no convertirlo en una herramienta para vigilar. Si los conductores lo ven como un castigo, buscarán la forma de saltárselo y el sistema no servirá. Nosotros lo plantearíamos como una ayuda: la ruta ya viene hecha y el repartidor no tiene que pelearse con el mapa.
+Poner un GPS y medir cómo conduce cada persona es un tema delicado. Hay que avisar a los trabajadores, explicar para qué se usa y no convertirlo en una herramienta para vigilar. Si los conductores lo ven como un castigo, buscarán la forma de saltárselo y el sistema no servirá. Yo lo plantearía como una ayuda: la ruta ya viene hecha y el repartidor no tiene que pelearse con el mapa.
 
-Pensamos también en el reparto con drones. Para una empresa de doce furgonetas no tiene sentido todavía, ni por el precio ni por la normativa.
+Pensé también en el reparto con drones. Para una empresa de doce furgonetas no tiene sentido todavía, ni por el precio ni por la normativa.
 
 ## Nuevo servicio
 
 **Entrega con hora elegida y seguimiento en directo.** El cliente recibe un enlace, ve en el mapa por dónde va su paquete y escoge una franja de una hora. Si le surge algo, la cambia o pide que lo dejen en un punto de recogida.
 
-Es el servicio que más nos gusta porque no es solo un extra para el cliente. Ataca directamente el segundo problema de la lista: si hay alguien en casa, no hay segundo viaje.
+Es el servicio que más me gusta porque no es solo un extra para el cliente. Ataca directamente el segundo problema de la lista: si hay alguien en casa, no hay segundo viaje.
 
 ## Transparencia
 
@@ -68,8 +68,8 @@ Es el servicio que más nos gusta porque no es solo un extra para el cliente. At
 ## Notas para exponer (2 minutos)
 
 **Arranque, 20 segundos.**
-- Somos Reparto Complutense, doce furgonetas por Alcalá y alrededores.
-- Se nos va el dinero en tres cosas: rutas hechas a mano, entregas fallidas y averías.
+- Mi empresa es Reparto Complutense, doce furgonetas por Alcalá y alrededores.
+- Se le va el dinero en tres cosas: rutas hechas a mano, entregas fallidas y averías.
 - Las tres acaban en lo mismo: kilómetros de más.
 
 **Tecnologías, 30 segundos.**
@@ -81,7 +81,7 @@ Es el servicio que más nos gusta porque no es solo un extra para el cliente. At
 - Mismas entregas con menos kilómetros. Más paquetes por furgoneta.
 - El taller, antes de que la furgoneta se pare.
 - Menos gasóleo es menos coste y menos CO₂: aquí van juntos.
-- Con los datos sabremos qué rutas pueden pasar a furgoneta eléctrica.
+- Con los datos se sabrá qué rutas pueden pasar a furgoneta eléctrica.
 - Decir que el GPS se explica a la plantilla y no es para vigilar.
 
 **Nuevo servicio, 35 segundos.**

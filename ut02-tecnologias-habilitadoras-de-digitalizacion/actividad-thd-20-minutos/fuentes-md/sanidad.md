@@ -1,10 +1,10 @@
 # Hospital del Henares: dónde se pierde el tiempo y cómo recuperarlo
 
-Grupo 4 · Sanidad
+Sanidad
 
-## Nuestro planteamiento
+## Mi planteamiento
 
-El hospital quiere mejorar la atención y reducir los tiempos de espera. En vez de empezar por las tecnologías, hemos empezado por el paciente: hemos seguido el recorrido de una persona que llega a urgencias y hemos apuntado en qué momentos espera. Luego hemos visto qué tecnología arregla cada uno.
+El hospital quiere mejorar la atención y reducir los tiempos de espera. En vez de empezar por las tecnologías, he empezado por el paciente: he seguido el recorrido de una persona que llega a urgencias y he apuntado en qué momentos espera. Luego he visto qué tecnología arregla cada uno.
 
 Las dos que salen son la **inteligencia artificial** y la **computación en la nube**.
 
@@ -13,22 +13,22 @@ Las dos que salen son la **inteligencia artificial** y la **computación en la n
 ### Llega a urgencias
 **Qué pasa ahora.** Espera a que un profesional le valore y le asigne una prioridad. Si hay mucha gente, esa primera cola ya es larga.
 
-**Qué cambiamos.** Un sistema de IA ayuda en el **triaje**. Con los síntomas, la edad y las constantes (tensión, temperatura, saturación de oxígeno) propone un nivel de gravedad. El personal de enfermería lo confirma o lo corrige. Los casos graves pasan antes y nadie con algo serio se queda esperando detrás de un esguince.
+**Qué cambiaría.** Un sistema de IA ayuda en el **triaje**. Con los síntomas, la edad y las constantes (tensión, temperatura, saturación de oxígeno) propone un nivel de gravedad. El personal de enfermería lo confirma o lo corrige. Los casos graves pasan antes y nadie con algo serio se queda esperando detrás de un esguince.
 
 ### Le atiende el médico
 **Qué pasa ahora.** El médico no siempre tiene a mano el historial. Si al paciente le hicieron pruebas en el centro de salud o en otro hospital, a veces hay que pedirlas o repetirlas.
 
-**Qué cambiamos.** La **historia clínica en la nube**. Cualquier médico autorizado ve al momento las alergias, la medicación y las pruebas anteriores, vengan del centro que vengan.
+**Qué cambiaría.** La **historia clínica en la nube**. Cualquier médico autorizado ve al momento las alergias, la medicación y las pruebas anteriores, vengan del centro que vengan.
 
 ### Le hacen una radiografía
 **Qué pasa ahora.** La imagen espera en una lista hasta que el radiólogo puede informarla.
 
-**Qué cambiamos.** La IA revisa las imágenes según llegan y pone primero las que parecen urgentes. El informe lo sigue haciendo el radiólogo, pero empieza por las que más prisa corren.
+**Qué cambiaría.** La IA revisa las imágenes según llegan y pone primero las que parecen urgentes. El informe lo sigue haciendo el radiólogo, pero empieza por las que más prisa corren.
 
 ### Le dan cita para revisión
 **Qué pasa ahora.** Hay pacientes que no se presentan y ese hueco se pierde, mientras otros llevan semanas esperando.
 
-**Qué cambiamos.** Una agenda en la nube con app. Si alguien cancela, el hueco se ofrece automáticamente al siguiente de la lista.
+**Qué cambiaría.** Una agenda en la nube con app. Si alguien cancela, el hueco se ofrece automáticamente al siguiente de la lista.
 
 ## Mejoras que se consiguen
 
@@ -66,9 +66,9 @@ También es eficiencia económica: en la sanidad pública, lo que no se gasta en
 
 ## Exposición oral: reparto del tiempo
 
-| Tiempo | Qué contamos |
+| Tiempo | Qué cuento |
 |---|---|
-| 20 s | «Hemos seguido a un paciente que llega a urgencias y hemos visto que espera en cuatro momentos: para que le valoren, para que el médico tenga su historial, para el resultado de las pruebas y para la cita de revisión». |
-| 30 s | «Lo arreglamos con dos tecnologías. La inteligencia artificial ayuda a ordenar a los pacientes por gravedad y a poner primero las radiografías urgentes. La nube guarda la historia clínica y la agenda, para que estén disponibles al momento en cualquier centro». |
+| 20 s | «He seguido a un paciente que llega a urgencias y he visto que espera en cuatro momentos: para que le valoren, para que el médico tenga su historial, para el resultado de las pruebas y para la cita de revisión». |
+| 30 s | «Lo arreglaría con dos tecnologías. La inteligencia artificial ayuda a ordenar a los pacientes por gravedad y a poner primero las radiografías urgentes. La nube guarda la historia clínica y la agenda, para que estén disponibles al momento en cualquier centro». |
 | 35 s | «Los casos graves se atienden antes, no se repiten pruebas y no se pierden huecos de consulta. Eso también es sostenibilidad: menos material, menos papel y menos viajes. Dos avisos: la IA propone pero decide el médico, y los datos de salud tienen que ir cifrados y muy controlados». |
 | 35 s | «El nuevo servicio es la teleconsulta con seguimiento en casa para pacientes crónicos. Mandan sus mediciones desde casa y, si algo va mal, su médico recibe un aviso. Van menos al hospital, y cuando van es porque de verdad hace falta». |

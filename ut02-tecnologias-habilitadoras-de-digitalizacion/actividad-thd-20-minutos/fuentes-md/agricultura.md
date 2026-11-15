@@ -1,14 +1,14 @@
 # Finca El Soto: regar con datos y no por costumbre
 
-Grupo 3 · Agricultura
+Agricultura
 
 ## El problema, explicado rápido
 
-Una explotación agrícola quiere gastar menos agua y menos energía. Nos hemos imaginado la **Finca El Soto**, 30 hectáreas de olivo y almendro con riego por goteo y una bomba eléctrica que saca el agua de un pozo.
+Una explotación agrícola quiere gastar menos agua y menos energía. Me he imaginado la **Finca El Soto**, 30 hectáreas de olivo y almendro con riego por goteo y una bomba eléctrica que saca el agua de un pozo.
 
 El riego se hace como se ha hecho siempre: tantas horas, tantos días a la semana, toda la finca igual. Eso tiene dos fallos. Hay zonas que reciben más agua de la que necesitan y otras que se quedan cortas. Y cada hora de riego es una hora de bomba enchufada, así que el agua y la luz se gastan a la vez.
 
-Elegimos **IoT** y **Big Data**. En clase vimos el vídeo de bynse, que hace algo parecido en viñedos, y nos sirvió para ver que esto ya existe y funciona, no es ciencia ficción.
+He elegido **IoT** y **Big Data**. En clase vimos el vídeo de bynse, que hace algo parecido en viñedos, y me sirvió para ver que esto ya existe y funciona, no es ciencia ficción.
 
 ## Antes y después
 
@@ -35,17 +35,17 @@ Elegimos **IoT** y **Big Data**. En clase vimos el vídeo de bynse, que hace alg
 
 ## Sostenibilidad
 
-En este sector la mejora del negocio y la sostenibilidad son casi lo mismo, y por eso nos parece el caso más claro de los cinco. Menos agua sacada del pozo significa cuidar el acuífero, que en muchas zonas de España está al límite. Menos horas de bomba es menos electricidad. Y si no se riega de más, el agua no arrastra el fertilizante hacia abajo, que es como se contaminan las aguas subterráneas.
+En este sector la mejora del negocio y la sostenibilidad son casi lo mismo, y por eso me parece el caso más claro de los cinco de la actividad. Menos agua sacada del pozo significa cuidar el acuífero, que en muchas zonas de España está al límite. Menos horas de bomba es menos electricidad. Y si no se riega de más, el agua no arrastra el fertilizante hacia abajo, que es como se contaminan las aguas subterráneas.
 
-## Lo que nos preocupa
+## Lo que me preocupa
 
-Dos cosas. La primera es la cobertura: en mitad del campo no siempre hay buena señal, así que habría que usar una red de bajo consumo pensada para sensores y no depender del móvil. La segunda es el coste de entrada para una finca mediana. Empezaríamos con dos o tres sectores de prueba y lo ampliaríamos si el ahorro se confirma.
+Dos cosas. La primera es la cobertura: en mitad del campo no siempre hay buena señal, así que habría que usar una red de bajo consumo pensada para sensores y no depender del móvil. La segunda es el coste de entrada para una finca mediana. Yo empezaría con dos o tres sectores de prueba y lo ampliaría si el ahorro se confirma.
 
-Nos planteamos usar drones para ver el estado de los árboles desde arriba. Lo dejamos para más adelante porque el agua se ahorra en el suelo, no en las fotos.
+Me planteé usar drones para ver el estado de los árboles desde arriba. Lo dejo para más adelante porque el agua se ahorra en el suelo, no en las fotos.
 
 ## Nuevo servicio
 
-**Un código QR en la botella de aceite o en la bolsa de almendras.** Al escanearlo se ve de qué parcela sale el producto, cuándo se recogió y cuánta agua se ha usado para producirlo. Los datos ya los tenemos, solo hay que enseñarlos. Cada vez hay más gente que mira estas cosas al comprar, y eso permite vender el producto mejor que a granel.
+**Un código QR en la botella de aceite o en la bolsa de almendras.** Al escanearlo se ve de qué parcela sale el producto, cuándo se recogió y cuánta agua se ha usado para producirlo. Los datos ya están recogidos, solo hay que enseñarlos. Cada vez hay más gente que mira estas cosas al comprar, y eso permite vender el producto mejor que a granel.
 
 ## Transparencia
 
@@ -61,8 +61,8 @@ Nos planteamos usar drones para ver el estado de los árboles desde arriba. Lo d
 
 **Problema (20 segundos).** «En la Finca El Soto se riega como siempre: las mismas horas para toda la finca, llueva o no. Y como el agua sale de un pozo con una bomba eléctrica, cada litro de más es también luz de más».
 
-**Tecnologías (30 segundos).** «Con IoT ponemos sondas de humedad en el suelo y válvulas automáticas. Con Big Data cruzamos esos datos con la previsión del tiempo y con lo que pasó otros años. El resultado es saber qué zona regar, cuánto y a qué hora. Si mañana llueve, hoy no se riega».
+**Tecnologías (30 segundos).** «Con IoT pondría sondas de humedad en el suelo y válvulas automáticas. Con Big Data cruzaría esos datos con la previsión del tiempo y con lo que pasó otros años. El resultado es saber qué zona regar, cuánto y a qué hora. Si mañana llueve, hoy no se riega».
 
-**Mejoras y sostenibilidad (35 segundos).** «Cada zona recibe lo que necesita y las fugas se ven el mismo día. Aquí ahorrar y ser sostenible es lo mismo: menos agua del acuífero, menos electricidad y menos fertilizante que acaba en el subsuelo. Empezaríamos con pocos sectores, porque la inversión es grande para una finca mediana».
+**Mejoras y sostenibilidad (35 segundos).** «Cada zona recibe lo que necesita y las fugas se ven el mismo día. Aquí ahorrar y ser sostenible es lo mismo: menos agua del acuífero, menos electricidad y menos fertilizante que acaba en el subsuelo. Yo empezaría con pocos sectores, porque la inversión es grande para una finca mediana».
 
-**Nuevo servicio (35 segundos).** «Con los datos que ya recogemos ponemos un QR en cada botella de aceite. El cliente ve de qué parcela viene y cuánta agua se gastó. Eso nos deja vender con marca propia y no solo a granel. Pasamos de gastar por costumbre a regar con datos, y encima lo podemos demostrar».
+**Nuevo servicio (35 segundos).** «Con los datos que ya se recogen, la finca pone un QR en cada botella de aceite. El cliente ve de qué parcela viene y cuánta agua se gastó. Eso le deja vender con marca propia y no solo a granel. Se pasa de gastar por costumbre a regar con datos, y encima se puede demostrar».

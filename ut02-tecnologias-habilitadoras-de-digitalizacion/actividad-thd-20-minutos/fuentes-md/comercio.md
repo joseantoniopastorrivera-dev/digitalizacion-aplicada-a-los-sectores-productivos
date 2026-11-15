@@ -1,10 +1,10 @@
 # La Zancada: vender más sabiendo a quién le vendes
 
-Grupo 2 · Comercio
+Comercio
 
 ## La tienda
 
-Nuestra situación es una tienda que quiere aumentar sus ventas y conocer mejor a sus clientes. Hemos pensado en una tienda de zapatillas y ropa de correr, **La Zancada**, con un local a pie de calle y una web pequeña.
+La situación es una tienda que quiere aumentar sus ventas y conocer mejor a sus clientes. He pensado en una tienda de zapatillas y ropa de correr, **La Zancada**, con un local a pie de calle y una web pequeña.
 
 Lo curioso es que la tienda ya tiene datos de sobra. Tiene los tiques de caja, los pedidos de la web y una tarjeta de puntos. Lo que pasa es que cada cosa está en un sitio distinto y nadie los cruza. La dueña sabe que en septiembre vende mucho, pero no sabe si el que compró unas zapatillas en la web es el mismo que luego viene a la tienda a por calcetines.
 
@@ -12,7 +12,7 @@ Por eso el orden de las dos tecnologías importa: primero ordenar los datos y de
 
 ## Primera tecnología: Big Data
 
-Lo usaríamos para juntar en un mismo sitio las tres fuentes: la caja de la tienda, la web y la tarjeta de puntos. Con eso ya se pueden responder preguntas que hoy nadie sabe contestar:
+Lo usaría para juntar en un mismo sitio las tres fuentes: la caja de la tienda, la web y la tarjeta de puntos. Con eso ya se pueden responder preguntas que hoy nadie sabe contestar:
 
 - Qué productos se compran juntos.
 - Cada cuánto tiempo vuelve un cliente y qué se lleva la segunda vez.
@@ -27,11 +27,11 @@ El primero son las **recomendaciones personalizadas**. Unas zapatillas de correr
 
 El segundo es la **previsión de la demanda**: calcular cuántos pares de cada talla pedir antes de cada temporada, que es donde una tienda pequeña se juega el dinero.
 
-## Lo que ganamos
+## Lo que gana la tienda
 
-Se vende más porque las ofertas dejan de ser a ciegas. Se quedan menos zapatillas sin vender en el almacén y faltan menos tallas de las que sí se piden. Y las campañas se pueden medir: si un descuento no ha traído a nadie, se ve.
+Vende más porque las ofertas dejan de ser a ciegas. Se quedan menos zapatillas sin vender en el almacén y faltan menos tallas de las que sí se piden. Y las campañas se pueden medir: si un descuento no ha traído a nadie, se ve.
 
-Hay algo que una tienda así no debería perder, que es el trato. La IA propone, pero el que atiende en la tienda es el que conoce al cliente de verdad. La idea es que el dependiente tenga la información en la pantalla, no que le sustituya una máquina.
+Hay algo que una tienda así no debería perder, que es el trato. La IA propone, pero el que atiende en la tienda es el que conoce al cliente de verdad. Mi idea es que el dependiente tenga la información en la pantalla, no que le sustituya una máquina.
 
 ## Y la sostenibilidad
 
@@ -45,11 +45,11 @@ Todo esto usa datos personales. La tarjeta de puntos tiene que pedir el consenti
 
 **Un asistente de compra en la app.** Te avisa cuando tus zapatillas están cerca del final de su vida útil, te propone el modelo que mejor te ha ido y te deja reservarlo para probártelo en la tienda. También avisa cuando vuelve a haber tu talla de algo que estaba agotado.
 
-Pensamos también en un probador con realidad aumentada. Queda muy vistoso, pero no ayuda a conocer mejor al cliente, que es lo que nos pedían, así que lo dejamos fuera.
+Pensé también en un probador con realidad aumentada. Queda muy vistoso, pero no ayuda a conocer mejor al cliente, que es lo que pide el enunciado, así que lo dejé fuera.
 
 ## Transparencia
 
-> **LA ZANCADA · SABER A QUIÉN VENDEMOS**
+> **LA ZANCADA · SABER A QUIÉN SE VENDE**
 > **Problema:** muchos datos sueltos (caja, web, tarjeta) y ninguna respuesta.
 > **Big Data:** juntar las tres fuentes y ver qué compra cada cliente y cuándo.
 > **IA:** recomendar en el momento justo y prever cuánto stock pedir.
@@ -60,10 +60,10 @@ Pensamos también en un probador con realidad aumentada. Queda muy vistoso, pero
 
 ## Guion para la exposición (2 minutos)
 
-**0:00 a 0:20. El problema.** Presentamos La Zancada, una tienda de zapatillas con local y web. Tiene datos de caja, de la web y de la tarjeta de puntos, pero cada uno por su lado, así que no conoce a sus clientes.
+**0:00 a 0:20. El problema.** Presento La Zancada, una tienda de zapatillas con local y web. Tiene datos de caja, de la web y de la tarjeta de puntos, pero cada uno por su lado, así que no conoce a sus clientes.
 
-**0:20 a 0:50. Las tecnologías.** Big Data para juntar esos datos en un solo sitio. Inteligencia artificial para dos cosas: recomendar a cada cliente lo que le toca cuando le toca, y prever cuánto género pedir. Ponemos el ejemplo de las zapatillas que se gastan a los ocho meses.
+**0:20 a 0:50. Las tecnologías.** Big Data para juntar esos datos en un solo sitio. Inteligencia artificial para dos cosas: recomendar a cada cliente lo que le toca cuando le toca, y prever cuánto género pedir. Pongo el ejemplo de las zapatillas que se gastan a los ocho meses.
 
-**0:50 a 1:25. Mejoras y sostenibilidad.** Más ventas porque las ofertas ya no son a ciegas, menos tallas agotadas y menos género parado. Al comprar lo justo hay menos sobrantes y menos devoluciones, que son menos transportes. Decimos claramente que hace falta el consentimiento del cliente.
+**0:50 a 1:25. Mejoras y sostenibilidad.** Más ventas porque las ofertas ya no son a ciegas, menos tallas agotadas y menos género parado. Al comprar lo justo hay menos sobrantes y menos devoluciones, que son menos transportes. Digo claramente que hace falta el consentimiento del cliente.
 
-**1:25 a 2:00. El nuevo servicio.** El asistente de la app: avisa de cuándo cambiar de zapatillas, recomienda modelo y deja reservar para probarlo en tienda. Cerramos con la idea de que la tecnología ayuda al dependiente, no le quita el sitio.
+**1:25 a 2:00. El nuevo servicio.** El asistente de la app: avisa de cuándo cambiar de zapatillas, recomienda modelo y deja reservar para probarlo en tienda. Cierro con la idea de que la tecnología ayuda al dependiente, no le quita el sitio.
