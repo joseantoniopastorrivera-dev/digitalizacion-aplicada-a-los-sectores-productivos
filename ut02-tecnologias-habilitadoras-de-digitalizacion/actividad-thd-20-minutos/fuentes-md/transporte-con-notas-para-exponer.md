@@ -57,12 +57,15 @@ Es el servicio que más me gusta porque no es solo un extra para el cliente. Ata
 
 ## Transparencia
 
-> **REPARTO COMPLUTENSE · MENOS KILÓMETROS**
-> **Problema:** rutas a mano, entregas fallidas y averías. Todo acaba en combustible.
-> **IoT:** GPS, consumo y estado del motor de cada furgoneta.
-> **IA:** rutas que se calculan y se rehacen solas con el tráfico y los pedidos.
-> **Mejoras:** menos kilómetros, más entregas por furgoneta, menos averías.
-> **Sostenible:** menos gasóleo y CO₂. Datos para decidir qué rutas pasar a eléctrico.
+Es el texto de la diapositiva que uso para exponer (presentacion-thd-transporte_JoseAntonio_PastorRivera.pptx). El guion de los 2 minutos va también en las notas del orador de esa diapositiva.
+
+> **REPARTO COMPLUTENSE · MENOS KILÓMETROS PARA ENTREGAR LO MISMO**
+> **El reto:** reducir costes y contaminación. Los dos salen del mismo sitio: el combustible.
+> **Dónde se van los kilómetros:** rutas a mano, entregas fallidas y averías en ruta.
+> **IoT, saber qué pasa:** GPS, consumo y estado del motor de cada furgoneta.
+> **IA, decidir la ruta:** la calcula cada día y la rehace sola si hay atasco.
+> **Mejoras:** menos kilómetros, más entregas por furgoneta y menos averías.
+> **Sostenibilidad:** menos gasóleo y CO₂. Datos para pasar rutas a eléctrico.
 > **Nuevo servicio:** el cliente elige la hora y sigue su paquete en el mapa.
 
 ## Notas para exponer (2 minutos)
